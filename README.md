@@ -1,5 +1,5 @@
 # Overview
-This was my first ever 3D modeling project created using Blender. The idea was to create an educational clip for second grade students showcasing the transformation of a caterpillar to a butterfly. The final project blend file was too large to attach onto gitHub, so instead I attatched most of the used models along with the video clip. 
+This was my first ever 3D modeling project using Blender. The idea was to create an educational clip for second grade students showcasing the transformation of a caterpillar to a butterfly. The final project blend file was too large to attach onto gitHub, so instead I attatched most of the used models along with the video clip. 
 
 
 ## -----------------------------------------------------------------------------
